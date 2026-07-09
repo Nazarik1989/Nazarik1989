@@ -29,21 +29,6 @@ Python • FastAPI • React • OpenRouter • PostgreSQL • VPS
 
 ---
 
-### Packaging Request Assistant
-
-AI-powered request intake assistant for manufacturing companies.
-
-Features:
-- Client request qualification
-- Requirement collection
-- Structured manager reports
-- Business process automation
-
-Tech:
-Python • OpenRouter • Telegram • VPS
-
----
-
 ### NAZ AI
 
 AI content generation and publishing agent.
@@ -57,6 +42,21 @@ Features:
 
 Tech:
 Python • Telegram API • OpenRouter • VPS
+
+---
+
+### Packaging Request Assistant
+
+AI-powered request intake assistant for manufacturing companies.
+
+Features:
+- Client request qualification
+- Requirement collection
+- Structured manager reports
+- Business process automation
+
+Tech:
+Python • OpenRouter • Telegram • VPS
 
 ---
 
