@@ -1,8 +1,14 @@
 # Hi, I'm Nazar 👋
 
-AI Systems Builder focused on AI agents, automation systems and SaaS products.
+Building AI agents, SaaS products and automation systems.
 
-Started building AI projects in 2026 and currently developing autonomous agents, content systems and document intelligence platforms.
+Started my AI journey in 2026 and currently developing:
+- AI content agents
+- Document intelligence platforms
+- Business process automation tools
+- Multi-agent systems
+
+From factory floor → AI product builder.
 
 ---
 
