@@ -1,40 +1,106 @@
 # Hi, I'm Nazar 👋
 
-AI Agent Developer from Russia.
+AI Systems Builder focused on AI agents, automation systems and SaaS products.
 
-Building autonomous AI agents, content systems and business process automation.
+Started building AI projects in 2026 and currently developing autonomous agents, content systems and document intelligence platforms.
 
-Started my AI journey in April 2026 and currently developing real-world AI projects deployed on Telegram and VPS infrastructure.
+---
 
-## Active Projects
+## 🚀 Featured Projects
+
+### PropScan AI
+AI-powered property due diligence platform.
+
+Features:
+- Property document analysis
+- Risk assessment
+- Missing document detection
+- Executive summaries
+- PDF report generation
+
+Tech:
+Python • FastAPI • React • OpenRouter • PostgreSQL • VPS
+
+---
 
 ### NAZ AI
+
 AI content generation and publishing agent.
 
-### VOID
-Experimental AI persona and autonomous content system.
+Features:
+- Content generation
+- Prompt workflows
+- Telegram publishing
+- Memory system
+- Cross-agent collaboration
 
-### VK Community Agent
-AI assistant for subscriber engagement, motivation and support.
+Tech:
+Python • Telegram API • OpenRouter • VPS
+
+---
+
+### VOID Entity
+
+Experimental AI persona for narrative content generation and autonomous publishing.
+
+Features:
+- Editorial workflows
+- Narrative generation
+- Autonomous publishing
+- Multi-agent content exchange
+
+Tech:
+Python • OpenRouter • Telegram • VPS
+
+---
 
 ### Packaging Request Assistant
-AI system that collects customer requirements and structures requests for managers.
 
-## Tech Stack
+AI-powered request intake assistant for manufacturing companies.
+
+Features:
+- Client request qualification
+- Requirement collection
+- Structured manager reports
+- Business process automation
+
+Tech:
+Python • OpenRouter • Telegram • VPS
+
+---
+
+## 🛠 Tech Stack
 
 - Python
-- Telegram Bot API
-- OpenRouter API
+- FastAPI
+- OpenRouter
+- React
+- PostgreSQL
 - GitHub
 - VPS Deployment
+- Telegram API
 
-## Currently Learning
+---
 
-- AI Agents
-- Automation Systems
-- Product Development
-- Deployment & Infrastructure
+## Current Focus
+
+Building AI agents, automation systems and SaaS products.
+
+Exploring:
+- Multi-agent systems
+- AI workflows
+- Document intelligence
+- Content automation
+- Business process automation
+
+---
 
 ## Contact
 
-https://t.me/Nazar_38rus
+GitHub: https://github.com/Nazarik1989
+
+Telegram:
+https://t.me/Naz_ai_1_bot
+
+Channel:
+https://t.me/PromptOrDie
