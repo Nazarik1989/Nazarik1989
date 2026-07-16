@@ -1,6 +1,6 @@
 # Hi, I'm Nazar 👋
 
-Building AI agents, SaaS products and automation systems.
+AI agents, SaaS products and automation systems.
 
 Started my AI journey in 2026 and currently developing:
 - AI content agents
