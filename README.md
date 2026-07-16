@@ -2,7 +2,7 @@
 
 AI agents, SaaS products and automation systems.
 
-Started my AI journey in 2026 and currently developing:
+Started building AI projects in April 2026 and currently developing:
 - AI content agents
 - Document intelligence platforms
 - Business process automation tools
