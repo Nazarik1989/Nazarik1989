@@ -16,6 +16,15 @@ From factory floor → AI product builder.
 
 ---
 
+## Currently building
+
+- PropScan AI — property document intelligence platform
+- NAZ AI — AI content agent
+- VOID — experimental AI media persona
+- MyFutureSelfAI — personal future-self assistant
+
+---
+
 ## 🚀 Featured Projects
 
 ### PropScan AI
