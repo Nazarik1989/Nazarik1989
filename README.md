@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=AI+Systems+Builder;From+Factory+Floor+to+AI+Products;Building+AI+Agents+and+SaaS+MVPs;Document+Intelligence+and+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Systems+Builder;AI+Agents+%7C+SaaS+MVPs+%7C+Automation;Document+Intelligence+Platforms;Building+Real+AI+Products" />
 </p>
 
 # Hi, I'm Nazar 👋
