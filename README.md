@@ -159,7 +159,7 @@ STATUS: Shipping
 GitHub: https://github.com/Nazarik1989
 
 Telegram:
-https://t.me/Naz_ai_1_bot
+https://t.me/Nazar_38rus
 
-Channel:
-https://t.me/PromptOrDie
+VK:
+https://vk.ru/spb.nazarik
