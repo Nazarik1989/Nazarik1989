@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&width=780&lines=AI+BUILDER+MODE%3A+ON;From+Factory+Floor+to+AI+Products;Agents.+Automation.+SaaS.;Shipping+Ideas+into+Reality" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&width=820&lines=AI+BUILDER+MODE%3A+ON;From+Factory+Floor+to+AI+Products;Agents.+Automation.+SaaS.;Turning+Ideas+into+Working+Systems" />
 </p>
 
 # Hi, I'm Nazar 👋
