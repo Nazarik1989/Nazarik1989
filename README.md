@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=AI+Systems+Builder;AI+Agents;SaaS+MVPs;Document+Intelligence;Automation+Systems" />
+</p>
+
 # Hi, I'm Nazar 👋
 
 AI agents, SaaS products and automation systems.
