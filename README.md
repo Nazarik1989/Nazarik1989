@@ -107,7 +107,11 @@ Relay is a public, local-first infrastructure agent that turns selected developm
 NAZ scans the material again and its deterministic Editorial Orchestrator chooses the production route. Strong, verified work chronicles may become a Story-first pack and non-sequential Reel edits; ordinary material remains a standard post. Paid media rendering requires explicit admin confirmation, and completed Story/Reel media is delivered only to the private admin chat. Relay's publication commands are separate and opt-in; its normal collection and export commands do not publish.
 
 <p align="center">
-  <img src="./assets/diagrams/relay.svg" width="100%" alt="Relay Agent architecture" />
+  <img src="./assets/diagrams/relay-flow.gif" width="100%" alt="Animated Relay to NAZ workflow with standard draft and approval-gated Story/Reels routes" />
+</p>
+
+<p align="center">
+  <sub>Animated evidence flow · <a href="./assets/diagrams/relay.svg">Open the static diagram</a></sub>
 </p>
 
 ---
