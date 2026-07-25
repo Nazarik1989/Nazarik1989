@@ -31,7 +31,11 @@ My projects explore agents with distinct roles, voices, boundaries and communica
 ## Naz AI Lab
 
 <p align="center">
-  <img src="./assets/diagrams/ecosystem.svg" width="100%" alt="Nazar AI systems ecosystem" />
+  <img src="./assets/diagrams/ecosystem-flow.gif" width="100%" alt="Animated Naz AI Lab ecosystem: Relay, NAZ, VOID, publishing and product experiments" />
+</p>
+
+<p align="center">
+  <sub>Animated signal flow · <a href="./assets/diagrams/ecosystem.svg">Open the static diagram</a></sub>
 </p>
 
 <table>
