@@ -93,7 +93,11 @@ NAZ and VOID are not two copies of the same chatbot. They have separate editoria
 - Both can publish through one isolated VK pipeline without receiving access to the browser profile or credentials.
 
 <p align="center">
-  <img src="./assets/diagrams/naz-void.svg" width="100%" alt="NAZ and VOID multi-agent publishing architecture" />
+  <img src="./assets/diagrams/naz-void-flow.gif" width="100%" alt="Animated NAZ and VOID editorial flow with distinct voices, relationship state and isolated publishing" />
+</p>
+
+<p align="center">
+  <sub>Animated editorial flow · <a href="./assets/diagrams/naz-void.svg">Open the static diagram</a></sub>
 </p>
 
 **Public endpoints:** [NAZ bot](https://t.me/Naz_ai_1_bot) · [NAZ channel](https://t.me/PromptOrDie) · [VOID bot](https://t.me/voidentity_bot) · [VOID channel](https://t.me/voidsignv1s) · [Shared VK community](https://vk.com/club237593988)
