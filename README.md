@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nazarik1989"><img src="https://img.shields.io/badge/GitHub-Nazarik1989-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://t.me/Nazar_38rus"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://t.me/PromptOrDie"><img src="https://img.shields.io/badge/Channel-Prompt_or_Die-00E5FF?style=for-the-badge" alt="Prompt or Die" /></a>
+  <a href="https://vk.ru/spb.nazarik"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
+  <a href="https://t.me/Nazar_38rus"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 ---
