@@ -5,6 +5,12 @@
 <h1 align="center">Nazar Zykov</h1>
 
 <p align="center">
+  <a href="https://naz-ai-lab.ru/"><strong>Naz AI Lab — official website</strong></a> ·
+  <a href="https://naz-ai-lab.ru/projects/">Projects</a> ·
+  <a href="https://naz-ai-lab.ru/creator/">Creator profile</a>
+</p>
+
+<p align="center">
   <strong>AI Systems Builder</strong> · Agents · Automation · Product Experiments
 </p>
 
