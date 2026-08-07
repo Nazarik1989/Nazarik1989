@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://naz-ai-lab.ru/"><strong>Naz AI Lab — official website</strong></a> ·
   <a href="https://naz-ai-lab.ru/projects/">Projects</a> ·
+  <a href="https://naz-ai-lab.ru/cases/">Cases</a> ·
   <a href="https://naz-ai-lab.ru/creator/">Creator profile</a>
 </p>
 
@@ -68,7 +69,7 @@ My projects explore agents with distinct roles, voices, boundaries and communica
       <sub>Goals · tasks · reflection</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Nazarik1989/PropScan-AI"><img src="./assets/avatars/propscan.webp" width="150" alt="PropScan AI" /></a><br />
+      <a href="https://github.com/Nazarik1989/PropScan-AI-MVP"><img src="./assets/avatars/propscan.webp" width="150" alt="PropScan AI" /></a><br />
       <strong>PropScan AI</strong><br />
       <sub>Documents · risks · reports</sub>
     </td>
@@ -127,17 +128,17 @@ NAZ scans the material again and its deterministic Editorial Orchestrator choose
 
 ## Selected products
 
-### [PropScan AI](https://github.com/Nazarik1989/PropScan-AI)
+### [PropScan AI](https://naz-ai-lab.ru/projects/propscan/)
 
-Property document intelligence for risk discovery, missing-document detection, executive summaries and review-ready reports. **Status:** MVP. [Live demo](https://propscan-ai.netlify.app)
+Property document intelligence for risk discovery, missing-document detection, executive summaries and review-ready reports. **Status:** public MVP. [Repository](https://github.com/Nazarik1989/PropScan-AI-MVP) · [Verified case](https://naz-ai-lab.ru/cases/propscan-public-mvp/)
 
-### [Future Self AI](https://github.com/Nazarik1989/MyFutureSelfAI_bot)
+### [Future Self AI](https://naz-ai-lab.ru/projects/future-self-ai/)
 
-A private Telegram assistant connecting a desired future with goals, tasks, reminders, reflection, health tracking and a scoped Knowledge Hub. Universal Capture uses preview/confirm, immutable revisions and an isolated document-ingestion runner. **Status:** active development.
+A private Telegram assistant connecting a desired future with goals, tasks, reminders, reflection, health tracking and a scoped Knowledge Hub. Universal Capture uses preview/confirm, immutable revisions and an isolated document-ingestion runner. **Status:** active development. [Repository](https://github.com/Nazarik1989/MyFutureSelfAI_bot)
 
-### [Packaging Request Assistant](https://github.com/Nazarik1989/AI-Packaging-Request-Assistant)
+### [Packaging Request Assistant](https://naz-ai-lab.ru/projects/ai-packager/)
 
-A manufacturing-intake prototype that converts incomplete client requests into adaptive questions, a completeness score and a structured manager brief. **Status:** demonstrator.
+A manufacturing-intake prototype that converts incomplete client requests into adaptive questions, a completeness score and a structured manager brief. **Status:** demonstrator. [Repository](https://github.com/Nazarik1989/AI-Packaging-Request-Assistant)
 
 ### [Zayka AI Community Assistant](https://github.com/Nazarik1989/vk-zaika-chudodey)
 
